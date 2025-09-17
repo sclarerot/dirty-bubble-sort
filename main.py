@@ -58,9 +58,9 @@ def bubble_sort(li: list[int]) -> list[int]:
     return li
 
 def dirty_bubble_sort() -> None:
-    dirty_list: list[str] = create_random_list()
+    dirty_list: list[int] = create_random_list()
     print(f"Oh no! The Dirty Bubble's d i r t y list of integers!\n{dirty_list}\n")
-    sorted_list: list[str] = bubble_sort(dirty_list)
+    sorted_list: list[int] = bubble_sort(dirty_list)
     print(f"The conch signal?\n{sorted_list}\nMermaid Man and Barnacle Boy save the day again!\n")
     
     quote: str = generate_quote()
