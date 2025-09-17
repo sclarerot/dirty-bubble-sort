@@ -73,7 +73,7 @@ def main():
         dirty_bubble_sort()
         asking: bool = True
         while asking:
-            answer = input("[y/n?]: ").lower()
+            answer: str = input("[y/n?]: ").lower()
             match answer:
                 case "y":
                     asking = False
