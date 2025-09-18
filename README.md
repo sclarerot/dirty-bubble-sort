@@ -2,11 +2,9 @@
 
 Dirty Bubble Sort is a CLI Python script designed to generate a random list of integers, sort that list "dirty bubble" style, and print out a random SpongeBob SquarePants quote.
 
-
+![A photo of the Dirty Bubble Sort program running in the terminal.](screenshot.png)
 
 And now, for your reading pleasure, a few select excerpts from Mermaid Man and Barnacle Boy episode transcripts...
-
-![A photo of the Dirty Bubble Sort program running in the terminal.](screenshot.png)
 
 "SpongeBob: Hey, Mermaid Man. **approaches Mermaid Man and Barnacle Boy's table**
 Mermaid Man: Uh, he--here comes the TV repairman.
